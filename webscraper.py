@@ -80,8 +80,3 @@ for offerDescription in offerDescriptions:
     print("teaserPeriod in £  : " + str(teaserPeriod) )
 
     f.write(offerName + "," + str(fixedRate) + "," + str(variableRate) + "," + str(totalCost) + "," + str(teaserPayment) + "," + ongoingPayment.replace("," , "") + "," + str(teaserPeriod) + "\n")
-
-####  NOTES
-# offerValue is an a type = bs4.element.ResultSet (check with type(offerValue)) - it behaves like a list / even when len() = 1
-# .text is used to get what is within the html bracket as text
-# to extract values from a string I use REGEX pattern - specifications can be found here hhttps://regex101.com/r/hU4vO7/12 / I had to play around a little bit to get the numbers above 1k / where both a coma and a point were included. Furthermore, I had to adjust them to make them work in csv due to the ",".
