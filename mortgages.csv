@@ -1,0 +1,21 @@
+offerName , fixedRate in % , variableRate in % , totalCost in % , teaserPayment in £  , ongoingPayment in £ , teaserPeriod in £
+Halifax 2 year fixed for first time buyers,0.019,0.0424,0.040999999999999995,733.25,929.02,26.0
+Clydesdale Bank 2 year fixed,0.0199,0.052000000000000005,0.047,740.89,1016.73,27.0
+Yorkshire Bank 2 year fixed,0.0199,0.052000000000000005,0.047,740.89,1016.73,27.0
+First Direct 2 year fixed,0.0209,0.04190000000000001,0.038,749.44,927.40,24.0
+Halifax 2 year fixed for first time buyers,0.021,0.0424,0.040999999999999995,750.29,930.72,26.0
+Halifax 2 year fixed for first time buyers,0.021,0.0424,0.040999999999999995,750.29,930.72,26.0
+Leeds Building Society 2 year fixed stepped,0.021099999999999997,0.056900000000000006,0.049,751.15,1050.16,28.0
+Yorkshire Building Society 2 year fixed stepped,0.021400000000000002,0.0499,0.043,753.73,991.10,27.0
+Yorkshire Building Society 2 year fixed stepped offset,0.0226,0.0499,0.043,764.1,992.20,27.0
+Yorkshire Building Society 5 year fixed,0.0231,0.0499,0.039,768.44,970.67,63.0
+Post Office 2 year fixed cashback mortgage,0.0233,0.047400000000000005,0.044000000000000004,770.18,978.76,25.0
+Clydesdale Bank 3 year fixed,0.023399999999999997,0.052000000000000005,0.045,771.05,1009.52,39.0
+Yorkshire Bank 3 year fixed,0.023399999999999997,0.052000000000000005,0.045,771.05,1009.52,39.0
+Halifax 2 year fixed for first time buyers,0.023399999999999997,0.0424,0.040999999999999995,771.05,932.71,26.0
+Leeds Building Society 5 year fixed,0.023399999999999997,0.056900000000000006,0.044000000000000004,771.05,1027.47,64.0
+Clydesdale Bank 2 year fixed,0.0239,0.052000000000000005,0.049,775.42,1020.52,27.0
+Clydesdale Bank 3 year fixed cashback mortgage for first time buyers,0.0239,0.052000000000000005,0.045,775.42,1010.19,39.0
+First Direct 2 year fixed,0.0239,0.04190000000000001,0.039,775.42,929.69,24.0
+Yorkshire Bank 2 year fixed,0.0239,0.052000000000000005,0.049,775.42,1020.52,27.0
+Yorkshire Bank 3 year fixed cashback mortgage for first time buyers,0.0239,0.052000000000000005,0.045,775.42,1010.19,39.0
