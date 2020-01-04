@@ -5,8 +5,6 @@ In this project - I am practicing web scraping objects and saving them down into
 
 Scraping is website specific & not generic. In this case I used https://www.money.co.uk mortgage section.
 
-Known limitation: the current version only works for the first page - as the URL does not reference the pagination. I seek to address this in a future iteration.
-
 #### Pre-requisites
 
 Make sure you have the latest version of python and pip
@@ -47,3 +45,6 @@ python3 webscraper.py
 **About BeautifulSoup:** - worth noting that the outcome of the function page_soup.find_all is a list (in their format) - irrespective if there is only one entry or not.
 
 **About exporting in CSV:** - I had to remove `,` from numbers > 999 to avoid pagination issues.
+
+**About selenium**:
+Key actions:

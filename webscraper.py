@@ -11,6 +11,8 @@ f = open(fileName, "w")
 headers = "offerName , fixedRate in % , variableRate in % , totalCost in % , teaserPayment in £  , ongoingPayment in £ , teaserPeriod in £\n"
 f.write(headers)
 
+
+
 # Open connection using urlopen
 uClient= uReq(my_url)
 
